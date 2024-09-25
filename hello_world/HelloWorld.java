@@ -1,5 +1,5 @@
 // Java é CaseSensitive!
-package helloworld;
+package hello_world;
 
 public class HelloWorld { 
     public static void main(String[] args) {
@@ -19,3 +19,12 @@ public class HelloWorld {
  * my_packege = helloworld
  * MINHA_CONSTANTE = VALOR_DE_PI
 */
+
+
+//Comentario de documentação:
+/**
+ * Exemplo de comentário de documentação
+ * @author Guilherme Davanso
+ * @version 1.0.0
+ * @since 2024-09-25
+ */

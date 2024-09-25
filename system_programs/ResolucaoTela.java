@@ -1,4 +1,4 @@
-package systemprograms;
+package system_programs;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;

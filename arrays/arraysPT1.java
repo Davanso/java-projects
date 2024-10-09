@@ -9,7 +9,7 @@ public class arraysPT1 {
         int[] nomes = new int[3]; // 3 = memory allocation
         nomes[0] = 21;
         System.out.println(nomes[0]); // Print the name in position 0
-
+        
 
     }
 }

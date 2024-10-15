@@ -1,0 +1,11 @@
+Um algoritmo é uma sequência finita e bem definida de passos ou instruções usadas para resolver um problema ou realizar uma tarefa. Esses passos seguem uma lógica 
+específica e são executados em uma ordem determinada, levando a um resultado ou solução.
+
+Características principais de um algoritmo:
+
+*Finitude*: Deve ter um número finito de etapas.
+*Definição*: Cada passo deve ser claro e preciso, sem ambiguidade.
+*Entrada e saída*: Um algoritmo pode ter dados de entrada e deve produzir uma saída ou resultado.
+*Eficácia*: Os passos devem ser possíveis de executar de forma prática.
+Os algoritmos são fundamentais em várias áreas, como programação, matemática e inteligência artificial, ajudando a automatizar tarefas e a encontrar soluções para 
+problemas complexos.

@@ -2,8 +2,8 @@ package operadores_aritimeticos;
 
 public class math {
     public static void main(String[] args) {
-        int a = 5;
-        int b = 10;
+        int a = 8;
+        int b = 2;
 
         // Exponenciação
         int exponenciacao = (int) Math.pow(a, b);

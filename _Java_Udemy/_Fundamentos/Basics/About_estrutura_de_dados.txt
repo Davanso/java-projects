@@ -1,0 +1,32 @@
+
+Estruturas de dados são formas organizadas de armazenar, gerenciar e acessar dados em um sistema de forma eficiente. Elas permitem que os dados sejam manipulados 
+de maneiras otimizadas para diferentes tipos de operações, como pesquisa, inserção, exclusão e ordenação.
+
+As estruturas de dados são fundamentais em ciência da computação porque permitem que os algoritmos sejam executados de maneira eficiente, otimizando o uso de tempo e memória.
+
+Tipos comuns de estruturas de dados:
+
+*Estruturas lineares*:
+
+- Array (Vetor): Um conjunto de elementos armazenados em posições contíguas na memória. Todos os elementos são do mesmo tipo, e cada um pode ser acessado por um índice.
+- Lista Encadeada: Uma coleção de nós, onde cada nó contém um valor e uma referência (ponteiro) para o próximo nó na lista. Listas podem ser simplesmente encadeadas 
+(com uma única referência) ou duplamente encadeadas (com referência para o nó anterior e o próximo).
+- Pilha (Stack): Segue o princípio LIFO (Last In, First Out), ou seja, o último elemento a ser inserido é o primeiro a ser removido. Exemplo: empilhar e desempilhar.
+- Fila (Queue): Segue o princípio FIFO (First In, First Out), onde o primeiro elemento inserido é o primeiro a ser removido.
+
+*Estruturas não lineares*:
+
+- Árvores (Trees): Estrutura hierárquica com um elemento raiz e subelementos (filhos), onde cada nó pode ter vários filhos, mas apenas um pai. A Árvore Binária é um tipo comum, 
+onde cada nó tem no máximo dois filhos (esquerdo e direito).
+- Grafos (Graphs): Conjunto de nós (vértices) conectados por arestas. Pode ser direcionado (as conexões têm uma direção) ou não direcionado. Grafos são usados para modelar redes, 
+como redes sociais e rotas de trânsito.
+
+*Tabelas*:
+
+Tabelas Hash (Hash Tables): Usam uma função hash para mapear dados a um índice em uma tabela, permitindo acesso eficiente aos dados. Ideal para buscas rápidas.
+
+*Aplicações das estruturas de dados*:
+- Arrays são úteis para armazenar e acessar rapidamente conjuntos de dados de tamanho fixo.
+- Listas encadeadas facilitam a inserção e remoção de elementos em posições arbitrárias.
+- Pilha e fila são usadas em algoritmos como busca em profundidade e gerenciamento de tarefas.
+- Árvores são aplicadas em banco de dados e sistemas de arquivos, enquanto grafos modelam relações complexas, como redes de computadores ou sistemas de transporte.
